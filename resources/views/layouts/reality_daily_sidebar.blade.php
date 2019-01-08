@@ -15,7 +15,7 @@
         <!-- Add icons to the links using the .nav-icon class
              with font-awesome or any other icon font library -->
         <li class="nav-item">
-          <a href="" class="nav-link">
+          <a href="/videos" class="nav-link">
             <i class="nav-icon fas fa-video"></i>
             <p>
               Videos
@@ -33,19 +33,19 @@
           </a>
           <ul class="nav nav-treeview">
             <li class="nav-item">
-              <a href="pages/tables/simple.html" class="nav-link">
+              <a href="/products/size" class="nav-link">
                 <i class="nav-icon far fa-square"></i>
                 <p>Size</p>
               </a>
             </li>
             <li class="nav-item">
-              <a href="pages/tables/simple.html" class="nav-link">
+              <a href="/products/age" class="nav-link">
                 <i class="nav-icon far fa-circle"></i>
                 <p>Age</p>
               </a>
             </li>
             <li class="nav-item">
-              <a href="pages/tables/data.html" class="nav-link">
+              <a href="/products/price" class="nav-link">
                 <i class="nav-icon fas fa-dollar-sign"></i>
                 <p>Price</p>
               </a>
@@ -53,7 +53,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a href="" class="nav-link">
+          <a href="/email" class="nav-link">
             <i class="nav-icon far fa-envelope"></i>
             <p>
               Email
@@ -62,7 +62,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a href="" class="nav-link">
+          <a href="/subscribers" class="nav-link">
             <i class="nav-icon fas fa-user-friends"></i>
             <p>
               Subscribers
@@ -80,13 +80,13 @@
           </a>
           <ul class="nav nav-treeview">
             <li class="nav-item">
-              <a href="" class="nav-link">
+              <a href="/payment/paypal" class="nav-link">
                 <i class="fab fa-cc-paypal nav-icon"></i>
                 <p>Paypal</p>
               </a>
             </li>
             <li class="nav-item">
-              <a href="" class="nav-link">
+              <a href="/payment/card" class="nav-link">
               <i class="nav-icon far fa-credit-card"></i>
                 <p>Card</p>
               </a>
@@ -94,7 +94,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a href="" class="nav-link">
+          <a href="/orders" class="nav-link">
             <i class="nav-icon fas fa-clipboard-check"></i>
             <p>
               Orders
@@ -103,7 +103,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a href="" class="nav-link">
+          <a href="/about-us" class="nav-link">
             <i class="nav-icon fas fa-info"></i>
             <p>
               About Us
@@ -112,7 +112,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a href="" class="nav-link">
+          <a href="/contact-us" class="nav-link">
             <i class="nav-icon fas fa-address-card"></i>
             <p>
               Contact Us

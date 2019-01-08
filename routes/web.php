@@ -126,3 +126,41 @@ Route::get('/simple-data', function () {
 Route::get('/dashboard', function () {
     return view('reality_daily.dashboard');
 });
+
+Route::get('/videos', function () {
+    return view('videos');
+});
+
+Route::get('/products/age', function () {
+    return view('products.age');
+});
+
+Route::get('/products/size', function () {
+    return view('products.size');
+});
+
+Route::get('/products/price', function () {
+    return view('products.price');
+});
+Route::get('/email', function () {
+    return view('email');
+});
+Route::get('/subscribers', function () {
+    return view('subscribers');
+});
+Route::get('/payment/paypal', function () {
+    return view('payment.paypal');
+});
+Route::get('/payment/card', function () {
+    return view('payment.card');
+});
+
+Route::get('/order', function () {
+    return view('order');
+});
+Route::get('/about-us', function () {
+    return view('about-us');
+});
+Route::get('/contact-us', function () {
+    return view('contact-us');
+});
